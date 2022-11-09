@@ -1,0 +1,32 @@
+hour hand
+minute hand
+second hand
+
+
+12hr -> 360 degree  rotation 
+1hr  ->  30degree  
+hhr  ->   30hdegree
+
+1:HOUR HAND - (30h+m/2)
+
+
+
+60minutes -> 30 degree
+1minutes  -> 1/2 degree
+
+m -> m/2degree rotation
+
+
+60min -> 360 degree
+1 min -> 6 degree
+
+
+2:MINUTE HAND  - m minutes -> 6m degree
+
+
+
+60 seconds -> 360 degree
+1 seconds  ->  6 degree
+
+
+3:SECOND HAND -  s seconds  ->  s degree
